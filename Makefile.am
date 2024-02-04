@@ -133,7 +133,7 @@ EXTRA_DIST = $(BUILD_FILES) test/functional/test_runner.py test/functional $(DIS
 EXTRA_DIST += \
 	test/util/bitcoin-util-test.py \
 	test/util/data/bitcoin-util-test.json \
-	test/util/data/blanktxv1.hex \
+	test/util/data/2/blanktxv1.hex \
 	test/util/data/blanktxv1.json \
 	test/util/data/blanktxv2.hex \
 	test/util/data/blanktxv2.json \
